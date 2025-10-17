@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varunon9/amp4email.git"
+    "url": "git+https://github.com/omthapabhn/ampforemail.git"
   },
   "keywords": [
     "amp4email",
@@ -17,12 +17,12 @@
     "amp-gmail",
     "amp"
   ],
-  "author": "Varun Kumar <varunon9@gmail.com>",
+  "author": "Om Vikram Thapa <omvikram@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/varunon9/amp4email/issues"
+    "url": "https://github.com/omthapabhn/ampforemail/issues"
   },
-  "homepage": "https://github.com/varunon9/amp4email#readme",
+  "homepage": "https://github.com/omthapabhn/ampforemail#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.6.2",

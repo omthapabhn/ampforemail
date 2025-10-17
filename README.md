@@ -12,7 +12,7 @@ In layman's term this means that you can send interactive email with real-time d
 
 ### Step 1: Setting up this project
 
-1. Clone/Download this repo- `git clone https://github.com/varunon9/amp4email.git`
+1. Clone/Download this repo- `git clone https://github.com/omthapabhn/ampforemail.git`
 2. Install dependencies `yarn install`
 3. Create `config.js` file from `configStructure.js` file or just rename it to `config.js`
 
